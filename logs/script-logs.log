@@ -1,0 +1,55 @@
+06-26 19:19 SMTP: SENT   INFO     EMAIL SENT
+06-26 19:23 SMTP: SENT   INFO     EMAIL SENT
+06-26 19:29 SMTP: SENT   INFO     EMAIL SENT
+06-26 19:37 SMTP:        INFO     MGv6-BINANCE-SELL-XRPBNB-1M
+06-26 19:58 SMTP:        INFO     MGv6-BINANCE-SELL-XRPBNB-1M
+06-26 20:14 SMTP:        INFO     MGv6-BINANCE-SELL-XRPBNB-1M
+06-26 20:19 SMTP:        INFO     MGv6-BINANCE-SELL-XRPBNB-1M
+06-26 20:44 SMTP:        INFO     MGv6-BINANCE-SELL-XRPBNB-1M
+06-26 20:56 SMTP:        INFO     MGv6-BINANCE-SELL-XRPBNB-1M
+06-27 23:56 SMTP:        INFO     MGv6-BINANCE-SELL-XRPBNB-1M
+06-28 00:05 SMTP:        INFO     MGv6-BINANCE-SELL-XRPBNB-1M
+06-28 07:45 root         INFO     No ' Firefox Browser' Supported for Coil
+06-28 07:58 root         INFO     No ' Firefox Browser' Supported for Coil
+06-28 08:02 root         INFO     No ' Firefox Browser' Supported for Coil
+06-28 08:03 root         INFO     No ' Firefox Browser' Supported for Coil
+06-28 08:05 root         INFO     No ' Firefox Browser' Supported for Coil
+06-28 08:05 SMTP:        INFO     MGv6-BINANCE-SELL-XRPBNB-1M
+06-28 08:14 root         INFO     No ' Firefox Browser' Supported for Coil
+06-28 08:37 root         INFO     No ' Firefox Browser' Supported for Coil
+06-28 08:37 root         INFO     No ' Firefox Browser' Supported for Coil
+06-28 08:39 root         INFO     No ' Firefox Browser' Supported for Coil
+06-28 08:39 root         INFO     No ' Firefox Browser' Supported for Coil
+06-28 08:42 root         INFO     No ' Firefox Browser' Supported for Coil
+06-28 08:43 root         INFO     No ' Firefox Browser' Supported for Coil
+06-28 08:44 root         INFO     No ' Firefox Browser' Supported for Coil
+06-28 08:47 root         INFO     No ' Firefox Browser' Supported for Coil
+06-28 08:49 root         INFO     No ' Firefox Browser' Supported for Coil
+06-28 08:50 root         INFO     No ' Firefox Browser' Supported for Coil
+06-28 08:54 root         INFO     No ' Firefox Browser' Supported for Coil
+06-28 08:59 root         INFO     No ' Firefox Browser' Supported for Coil
+06-28 09:01 root         INFO     No ' Firefox Browser' Supported for Coil
+06-28 09:05 apscheduler.scheduler INFO     Adding job tentatively -- it will be properly scheduled when the scheduler starts
+06-28 09:05 apscheduler.scheduler INFO     Added job "TV.get_coil_url" to job store "default"
+06-28 09:05 apscheduler.scheduler INFO     Scheduler started
+06-28 09:09 apscheduler.scheduler INFO     Adding job tentatively -- it will be properly scheduled when the scheduler starts
+06-28 09:09 apscheduler.scheduler INFO     Added job "TV.get_coil_url" to job store "default"
+06-28 09:09 apscheduler.scheduler INFO     Scheduler started
+06-28 09:12 SMTP:        INFO     MGv6-BINANCE-SELL-XRPBNB-1M
+06-28 09:14 root         INFO     No ' Firefox Browser' Supported for Coil
+06-28 09:16 root         WARNING  Consider signing up for Coil when using pyton-bitrue as a contribution. 
+ https://coil.com/signup 
+06-28 09:16 SMTP:        INFO     MGv6-BINANCE-SELL-XRPBNB-1M
+06-28 09:18 root         WARNING  Consider signing up for Coil when using tradingview-monitor as a contribution. 
+ https://coil.com/signup 	 Works seemlessly inside a browser.
+06-28 09:19 root         WARNING  Consider signing up for Coil when using tradingview-monitor as a contribution. 
+ Works seemlessly inside a browser.	 https://coil.com/signup 
+06-28 09:21 apscheduler.scheduler INFO     Adding job tentatively -- it will be properly scheduled when the scheduler starts
+06-28 09:21 apscheduler.scheduler INFO     Added job "TV.get_coil_url" to job store "default"
+06-28 09:21 apscheduler.scheduler INFO     Scheduler started
+06-28 09:27 apscheduler.scheduler INFO     Adding job tentatively -- it will be properly scheduled when the scheduler starts
+06-28 09:27 apscheduler.scheduler INFO     Added job "TV.get_coil_url" to job store "default"
+06-28 09:27 apscheduler.scheduler INFO     Scheduler started
+06-28 09:42 apscheduler.scheduler INFO     Adding job tentatively -- it will be properly scheduled when the scheduler starts
+06-28 09:42 apscheduler.scheduler INFO     Added job "TV.get_coil_url" to job store "default"
+06-28 09:42 apscheduler.scheduler INFO     Scheduler started
